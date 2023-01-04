@@ -1,0 +1,11 @@
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.Form1.resources
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.Properties.Resources.resources
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\bin\Debug\UzmiSveVratiEure.exe.config
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\bin\Debug\UzmiSveVratiEure.exe
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\bin\Debug\UzmiSveVratiEure.pdb
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.exe
+C:\Users\Lovro\source\repos\UzmiSveVratiEure\UzmiSveVratiEure\obj\Debug\UzmiSveVratiEure.pdb
